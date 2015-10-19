@@ -12,6 +12,9 @@ Don't forget to call the function at the bottom
 
 import Foundation
 
+var ages =  ["Aaron": 22, "Paul": 48, "Andrew": 25, "Michael": 18, "Troy": 33]
+
+func 
 
 
 //: [Previous](@previous)

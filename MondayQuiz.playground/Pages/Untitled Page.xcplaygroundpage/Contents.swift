@@ -10,6 +10,16 @@ Don't forget to call the function at the bottom
 
 import Foundation
 
+var isCoding = true
+
+func toPrint (var isCoding : Bool){
+    
+    if isCoding = true {
+        print("Dong Bug me")
+    } else{
+        print("Whats up?")
+}
+toPrint(true)
 
 //: [Previous](@previous)
 //: [Next](@next)
